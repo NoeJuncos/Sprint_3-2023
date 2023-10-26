@@ -1,0 +1,64 @@
+{
+  "Loggin_button": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//header/div[2]/div[1]/div[3]/div[1]/div[1]/li[2]/a[1]"
+  },
+  "Email": {
+	  "GetFieldBy": "ID",
+	  "ValueToFind": "inputEmail"	
+  },
+  "Password": {
+	  "GetFieldBy": "ID",
+	  "ValueToFind": "inputPassword"	
+  },
+  "Ingresar": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//button[contains(text(),'INGRESÁ')]"
+  },
+  "Cuenta": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//header/div[2]/div[1]/div[3]/div[1]/div[1]/li[1]/a[1]"
+  },
+  "Buscador": {
+	  "GetFieldBy": "ID",
+	  "ValueToFind":	"buscador_buscar"
+  },
+  "Producto1": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//h2[contains(text(),'VX75')]"
+  },
+  "VX75": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//h2[contains(text(),'VX75')]"
+  },
+  "Sumar": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//body/div[@id='contenido']/div[2]/div[2]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/button[2]"
+  },
+  "Agregar_carrito": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//button[@id='argregarAlCarrito']"
+  },
+  "Producto_carrito": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//a[contains(text(),'VX75')]"
+  },
+  "Cantidad_carrito": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/input[1]"
+  },
+  "Ir_carrito": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//a[contains(text(),'Ir a mi carrito')]"
+  },
+  "Finalizar_compra": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind":	"//button[contains(text(),'Continuar')]"
+  },
+  
+  "Mi_carrito": {
+	  "GetFieldBy": "XPATH",
+	  "ValueToFind": "//div[contains(text(),'Mi Carrito')]"
+  }
+  
+}
