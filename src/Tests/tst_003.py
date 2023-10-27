@@ -1,4 +1,4 @@
-from Functions.Functions import Functions as Selenium
+from src.Functions.Functions import Functions as Selenium
 
 import unittest
 import time

@@ -1,4 +1,4 @@
-from Functions.Inicializar import Inicializar
+from src.Functions.Inicializar import Inicializar
 
 #Importamos del archivo Inicializar, a la clase Inicializar
 
